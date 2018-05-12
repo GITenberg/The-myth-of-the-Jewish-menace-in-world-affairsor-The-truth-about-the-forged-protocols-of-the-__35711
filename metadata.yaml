@@ -1,0 +1,30 @@
+_repo: The-myth-of-the-Jewish-menace-in-world-affairsor-The-truth-about-the-forged-protocols-of-the-__35711
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wolf, Lucien
+    birthdate: 1857
+    deathdate: 1930
+    gutenberg_agent_id: '35195'
+    url: http://www.gutenberg.org/2009/agents/35195
+    wikipedia: http://en.wikipedia.org/wiki/Lucien_Wolf
+description: ''
+gutenberg_issued: '2011-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35711'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Protocols of the wise men of Zion'
+- !lcsh 'Jews'
+- !lcc 'DS'
+title: 'The myth of the Jewish menace in world affairs
+
+  or, The truth about the forged protocols of the elders of Zion'
+url: http://www.gutenberg.org/ebooks/35711
